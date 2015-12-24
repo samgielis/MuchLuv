@@ -1,0 +1,68 @@
+#footer {
+	top:0px;
+	left:0px;
+	background:black;
+	min-height:120px;
+	width:100%;
+	position: relative;
+	color:white;
+	font-size: 0.8em;
+	text-align:center;
+	}
+
+.quotecontainer {
+		width: 100%;
+		min-height: 200px;
+		max-height: 400px;
+		background-image: url("../img/quotebg.jpg");
+ 		background-size:cover;
+ 		text-align:center;
+		display:table;
+	}
+
+
+.pricingcontainer {
+  width: 100%;
+  max-height: 400px;
+  background-image: url("../img/pricingbg.jpg");
+	background-size:cover;
+	text-align:center;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.pricingblock {
+	height: 100%;
+	width: 33%;
+}
+
+#left {
+	float: left;
+}
+
+#right {
+	float: right;
+}
+
+#center {
+	margin:0 auto;
+	display: inline-block;
+}
+
+.gearcontainer {
+  width: 100%;
+  min-height: 400px;
+  background-image: url("../img/gearbg.jpg");
+	background-size:contain;
+	text-align:center;
+	resize: both;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-color: black;
+}
+
+.gearblock {
+	height: 100%;
+	width: 33%;
+}
