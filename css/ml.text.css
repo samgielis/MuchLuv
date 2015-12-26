@@ -70,3 +70,9 @@ a[href^="mailto:"] {
 a[href^="mailto:"]:hover {
    color:#fefb00;
 }
+a[href^="https:"] {
+  color:#fefb00;
+}
+a[href^="https:"]:hover {
+   color:#f300ff;
+}

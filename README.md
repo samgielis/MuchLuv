@@ -8,9 +8,9 @@ Repository for Much Luv Studio's website.
 * update songs by clients in the embedded list
 * add a full list of clients somewhere?
 * make gear list hideable?
-* add a facebook button?
 * buy and link custom domainname to gh-page. muchluvstudio.com?
 
 # Done
 * added favicon.ico
 * added meta description, tags, image
+* add a facebook button

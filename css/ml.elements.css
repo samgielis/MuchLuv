@@ -1,8 +1,8 @@
-#footer {
+.footer {
 	top:0px;
 	left:0px;
 	background:black;
-	min-height:120px;
+	min-height:100px;
 	width:100%;
 	position: relative;
 	color:white;
@@ -55,8 +55,8 @@
   background-image: url("../img/gearbg.jpg");
 	background-size:contain;
 	text-align:center;
-	resize: both;
-	overflow: hidden;
+	resize: none;
+	overflow: auto;
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-color: black;
