@@ -5,7 +5,6 @@ Repository for Much Luv Studio's website.
 * The nav auto-highlighting does not work correctly yet.
 
 # Upcoming
-* add meta images.
 * update songs by clients in the embedded list
 * add a full list of clients somewhere?
 * make gear list hideable?
@@ -14,4 +13,4 @@ Repository for Much Luv Studio's website.
 
 # Done
 * added favicon.ico
-* added meta description, tags
+* added meta description, tags, image
