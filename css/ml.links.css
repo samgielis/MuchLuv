@@ -1,5 +1,5 @@
 a {
-    outline:none; 
+    outline:none;
 }
 
 ul {
@@ -22,7 +22,7 @@ li a {
     text-decoration: none;
 }
 
-li a:hover:not(.active) {
+.menubtn:hover:not(.active) {
     background-color: #fefb00;
     color: #000
 }
@@ -31,10 +31,14 @@ li a:hover:not(.active) {
     -moz-transition: .7s all ease-out;
     transition: .7s all ease-out;
 }
-li a.active {
+.menubtn.active {
     background-color: #f300ff;
 }
 
 iframe {
   padding: 40px 40px;
+}
+
+.bandlink:hover {
+    color: #f300ff
 }
