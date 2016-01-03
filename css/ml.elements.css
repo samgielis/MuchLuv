@@ -66,3 +66,13 @@
 	height: 100%;
 	width: 33%;
 }
+
+#myCanvasContainer {
+	background-size:contain;
+	text-align:center;
+	resize: none;
+	overflow: auto;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-color: black;
+}
