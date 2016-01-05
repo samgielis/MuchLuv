@@ -19,11 +19,11 @@ $(document).ready(function() {
 
                var href = $(this).attr("href")
                var offsetTop = 0;
-               if($(this).attr("href").contains("home"))
+               if($(this).attr("href").indexOf("home") > -1)
                    offsetTop = -1*($(href).offset().top-topMenuHeight+1);
                else
                 offsetTop = href === "#" ? 0 : $(href).offset().top-topMenuHeight+1;
-               
+
                $('html, body').stop().animate({
                    scrollTop: offsetTop
                }, 400+0.2*offsetTop);
