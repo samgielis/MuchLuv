@@ -1,0 +1,9 @@
+body{margin:0;padding-top:calc(100vh - 53px);}
+header{height:100%;background:#000;background:url(../img/bg.crop.jpg) no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;}
+.main-nav,
+.main{position:relative;}
+.main-nav{background:#000;color:#fff;height:50px;z-index:150;margin-bottom:-50px;box-shadow:0 2px 3px rgba(0,0,0,.4);}
+header,
+.main-nav-scrolled{position:fixed;width:100%;top:0;}
+.main{background:#fff;padding-top:70px;}
+.top-menu{position:absolute;right:0px;height:100%;border:none;padding:0px;}
