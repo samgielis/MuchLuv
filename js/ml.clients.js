@@ -1,4 +1,6 @@
-var clients = ["FÄR",
+var clients = ["Gloria Boateng",
+"DJED",
+"FÄR",
 "HIGH HI",
 "THE GIRL WHO CRIED WOLF",
 "IF ANYTHING HAPPENS TO THE CAT",
@@ -122,6 +124,8 @@ window.onload = function() {
   innerhtml += " <a href=\"https:\/\/www.facebook.com\/ifanythinghappenstothecat\/\" class=\"bandlink\" data-weight=\"28\" style=\"color: #f300ff;\" target=\"_blank\">If Anything Happens To The Cat<\/a><\/li>";
   innerhtml += " <li><a href=\"http:\/\/www.steffievancauter.be\/\" data-weight=\"20\" style=\"color: white;\" target=\"_blank\">Steffie Van Cauter<\/a><\/li>";
   innerhtml += " <li><a href=\"https:\/\/www.facebook.com\/apointofprotest\" data-weight=\"22\" style=\"color: white;\" target=\"_blank\">A Point Of Protest<\/a><\/li>";
+  innerhtml += " <li><a href=\"https:\/\/www.facebook.com\/djedisaband\" data-weight=\"21\" style=\"color: white;\" target=\"_blank\">DJED<\/a><\/li>";
+  innerhtml += " <li><a href=\"https:\/\/www.facebook.com\/GloriaBoatengg\" data-weight=\"32\" style=\"color: white;\" target=\"_blank\">Gloria Boateng<\/a><\/li>";
   innerhtml += "  <\/ul>";
 
   $("#bandcloud").html(innerhtml);
