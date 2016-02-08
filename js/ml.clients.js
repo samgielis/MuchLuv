@@ -125,7 +125,7 @@ window.onload = function() {
   innerhtml += " <li><a href=\"http:\/\/www.steffievancauter.be\/\" data-weight=\"20\" style=\"color: white;\" target=\"_blank\">Steffie Van Cauter<\/a><\/li>";
   innerhtml += " <li><a href=\"https:\/\/www.facebook.com\/apointofprotest\" data-weight=\"22\" style=\"color: white;\" target=\"_blank\">A Point Of Protest<\/a><\/li>";
   innerhtml += " <li><a href=\"https:\/\/www.facebook.com\/djedisaband\" data-weight=\"21\" style=\"color: white;\" target=\"_blank\">DJED<\/a><\/li>";
-  innerhtml += " <li><a href=\"https:\/\/www.facebook.com\/GloriaBoatengg\" data-weight=\"32\" style=\"color: white;\" target=\"_blank\">Gloria Boateng<\/a><\/li>";
+  innerhtml += " <li><a href=\"https:\/\/www.facebook.com\/GloriaBoatengg\" data-weight=\"32\" style=\"color: #fefb00;\" target=\"_blank\">Gloria Boateng<\/a><\/li>";
   innerhtml += "  <\/ul>";
 
   $("#bandcloud").html(innerhtml);
