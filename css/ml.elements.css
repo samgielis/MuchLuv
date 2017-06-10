@@ -36,15 +36,15 @@
 	width: 33%;
 }
 
-#left {
+.left {
 	float: left;
 }
 
-#right {
+.right {
 	float: right;
 }
 
-#center {
+.center {
 	margin:0 auto;
 	display: inline-block;
 }
@@ -65,6 +65,12 @@
 .gearblock {
 	height: 100%;
 	width: 33%;
+	color: white;
+}
+.gearblock img {
+	display:block;
+	margin:auto;
+	max-width:100px
 }
 
 #bandcloudcontainer {
